@@ -1,0 +1,39 @@
+total request #: 31
+total carrier #: 2
+carrier1 minimum weight requirement (lb): 300.0
+carrier2 minimum weight requirement (lb): 100.0
+lower bound : $570.8
+initial cost: $579.7
+final cost: $570.8
+Order Id         Ship Num         Carrier          Cost            
+ord6             ship1            1                25.0            
+ord3             ship2            2                22.9            
+ord13            ship3            2                22.4            
+ord1             ship1            2                22.0            
+ord17            ship1            2                22.2            
+ord10            ship1            2                21.7            
+ord5             ship1            1                20.7            
+ord8             ship2            2                21.4            
+ord8             ship3            1                21.5            
+ord11            ship1            1                20.5            
+ord18            ship1            1                20.4            
+ord8             ship1            1                18.7            
+ord14            ship1            2                18.8            
+ord1             ship4            2                18.5            
+ord3             ship3            2                18.5            
+ord19            ship1            1                18.0            
+ord1             ship3            2                18.0            
+ord4             ship1            1                18.0            
+ord20            ship1            1                17.9            
+ord12            ship1            2                17.4            
+ord15            ship1            2                17.2            
+ord7             ship1            1                16.0            
+ord2             ship1            1                15.5            
+ord13            ship1            1                15.5            
+ord10            ship3            1                15.0            
+ord13            ship2            1                15.0            
+ord16            ship2            1                15.0            
+ord10            ship2            2                14.9            
+ord1             ship2            1                14.5            
+ord9             ship1            1                14.5            
+ord3             ship1            2                13.2            

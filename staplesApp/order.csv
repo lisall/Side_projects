@@ -1,0 +1,33 @@
+start
+ord1,ship1,123 St1 city1 AA zip1,2,19
+ord1,ship2,124 St1 city1 AA zip2,3,6
+ord1,ship3,125 St1 city1 AA zip3,4,13
+ord1,ship4,126 St1 city1 AA zip4,5,12
+ord2,ship1,St3 city2 AA zip1,2,9
+ord3,ship3,St2 city1 AA zip4,5,12
+ord3,ship1,St3 city2 AA zip2,3,4
+ord3,ship2,St4 city2 AA zip3,4,20
+ord4,ship1,St2 city2 AA zip5,6,10
+ord5,ship1,St2 city2 AA zip6,7,15
+ord6,ship1,St2 city2 AA zip7,8,18
+ord7,ship1,St2 city2 AA zip8,2,10
+ord8,ship2,St4 city2 AA zip10,4,17
+ord8,ship3,St5 city2 AA zip11,5,16
+ord8,ship1,St2 city2 AA zip9,3,15
+ord9,ship1,St2 city2 AA zip12,2,7
+ord10,ship1,St2 city2 AA zip13,3,18
+ord10,ship2,St1 city2 AA zip14,4,5
+ord10,ship3,St5 city2 AA zip15,2,8
+ord11,ship1,St7 city2 AA zip16,3,16
+ord12,ship1,St2 city2 AA zip17,4,11
+ord13,ship1,St2 city2 AA zip18,2,9
+ord13,ship2,St8 city2 AA zip19,3,7
+ord13,ship3,St9 city2 AA zip20,4,19
+ord14,ship1,St2 city2 AA zip6,5,13
+ord15,ship1,St12 city2 AA zip22,3,11
+ord16,ship2,St2 city2 AA zip23,4,6
+ord17,ship1,St2 city2 AA zip24,5,17
+ord18,ship1,St2 city2 AA zip25,7,14
+ord19,ship1,St2 city2 AA zip6,8,8
+ord20,ship1,St2 city2 AA zip27,2,14
+end
